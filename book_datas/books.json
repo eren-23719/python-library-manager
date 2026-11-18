@@ -1,0 +1,44 @@
+[
+  {
+    "title": "Python 示例图书 1",
+    "author": "示例作者",
+    "price": 29.9,
+    "isbn": "DEMO-001",
+    "count": 1
+  },
+  {
+    "title": "Python 示例图书 2",
+    "author": "示例作者",
+    "price": 29.9,
+    "isbn": "DEMO-002",
+    "count": 2
+  },
+  {
+    "title": "Python 示例图书 3",
+    "author": "示例作者",
+    "price": 29.9,
+    "isbn": "DEMO-003",
+    "count": 3
+  },
+  {
+    "title": "Python 示例图书 4",
+    "author": "示例作者",
+    "price": 29.9,
+    "isbn": "DEMO-004",
+    "count": 4
+  },
+  {
+    "title": "Python 示例图书 5",
+    "author": "示例作者",
+    "price": 29.9,
+    "isbn": "DEMO-005",
+    "count": 5
+  },
+  {
+    "title": "Python 示例图书 6",
+    "author": "示例作者",
+    "price": 29.9,
+    "isbn": "DEMO-006",
+    "count": 6
+  }
+]
